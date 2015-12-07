@@ -1,0 +1,16 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '8.0'
+
+target 'SoundCloudMemoryTests' do
+    pod 'Expecta'
+    pod 'Specta'
+end
+
+target 'ShareMemoryGame' do
+    pod 'SDWebImage'
+    pod 'JTMaterialSpinner'
+end
+
+target 'SoundCloudMemoryCoreFramework' do
+    pod 'JSONModel'
+end

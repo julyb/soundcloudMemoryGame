@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ShareMemoryGame.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SoundCloudMemory.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>SoundCloudMemoryCoreFramework.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>CE5EE9241BA44D0300D3468E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE5EE93D1BA44D0400D3468E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE5EE9511BA44DAA00D3468E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE5EE9681BA44DFE00D3468E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE5EE97B1BA452A700D3468E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CED94E1E1BA8BEC100C0D610</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CED94E281BA8BEC100C0D610</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
